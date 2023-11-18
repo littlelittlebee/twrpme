@@ -5,7 +5,7 @@ codename: VLE5
 downloadfolder: VLE5
 supportstatus: Current
 maintainer: littlelittlebee
-oem: Hot Pepper Inc
+oem: Hot Pepper
 devicetree: https://github.com/littlelittlebee/TWRP-VLE5
 ---
 
